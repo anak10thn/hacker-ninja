@@ -1,4 +1,4 @@
-console.log('bubble short algorithm');
+console.log('short algorithm');
 var j = [3,1,6,4,8,2,9,18,20,36,12,25,15,43,13,16,14,12]
 var k = j.length;
 
